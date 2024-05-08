@@ -11,7 +11,7 @@ import { useState } from "react";
 const navLinks = [
   { name: "Register", href: "/register" },
   { name: "Login", href: "/login" },
-  { name: "Forget Password", href: "/forgot-password" },
+  { name: "Forget Password", href: "/forget-password" },
 ];
 
 export default function NewAuthLayout({
